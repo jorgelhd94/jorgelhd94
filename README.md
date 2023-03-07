@@ -11,5 +11,5 @@ I'm Jorge Luis Hernández, Full Stack Software Developer :sunglasses:. I love pr
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,py,vue,react,next,nest,postgres,mysql)](https://skillicons.dev)
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<!--START_SECTION:SHOW_COMMIT-->
+<!--END_SECTION:SHOW_COMMIT-->
