@@ -4,8 +4,12 @@
  </abc>
 </h1>
 
-I'm Jorge Luis Hernández, Full Stack Software Developer :computer:
+I'm Jorge Luis Hernández, Full Stack Software Developer :sunglasses:. I love programming :computer: and music :musical_score:, if I use them at the same time I get superpowers :zap:. 
 
 
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,py,vue,react,next,nest,postgres,mysql)](https://skillicons.dev)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
