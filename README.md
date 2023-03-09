@@ -14,13 +14,11 @@ I'm Jorge Luis Hernández, Full Stack Software Developer :sunglasses:. I love pr
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-124-blue)
-
 **🐱 My GitHub Data** 
 
 > 📦 223.5 kB Used in GitHub's Storage 
  > 
-> 🏆 178 Contributions in the Year 2023
+> 🏆 179 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -31,20 +29,20 @@ I'm Jorge Luis Hernández, Full Stack Software Developer :sunglasses:. I love pr
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                466 commits         ████████░░░░░░░░░░░░░░░░░   33.69 % 
-🌆 Daytime                789 commits         ██████████████░░░░░░░░░░░   57.05 % 
-🌃 Evening                125 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.04 % 
+🌞 Morning                467 commits         ████████░░░░░░░░░░░░░░░░░   33.74 % 
+🌆 Daytime                789 commits         ██████████████░░░░░░░░░░░   57.01 % 
+🌃 Evening                125 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
 🌙 Night                  3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   267 commits         █████░░░░░░░░░░░░░░░░░░░░   19.31 % 
-Tuesday                  280 commits         █████░░░░░░░░░░░░░░░░░░░░   20.25 % 
-Wednesday                226 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
-Thursday                 278 commits         █████░░░░░░░░░░░░░░░░░░░░   20.10 % 
-Friday                   233 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
-Saturday                 51 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
+Monday                   267 commits         █████░░░░░░░░░░░░░░░░░░░░   19.29 % 
+Tuesday                  280 commits         █████░░░░░░░░░░░░░░░░░░░░   20.23 % 
+Wednesday                226 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
+Thursday                 279 commits         █████░░░░░░░░░░░░░░░░░░░░   20.16 % 
+Friday                   233 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.84 % 
+Saturday                 51 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
 Sunday                   48 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
 ```
 
@@ -52,18 +50,7 @@ Sunday                   48 commits          █░░░░░░░░░░�
 📊 **This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: America/Havana
-
 💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
 No Activity Tracked This Week
 ```
 
@@ -84,5 +71,5 @@ CSS                      2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jorgelhd94/jorgelhd94/main/assets/bar_graph.png)
 
 
- Last Updated on 09/03/2023 08:22:10 UTC
+ Last Updated on 09/03/2023 14:20:50 UTC
 <!--END_SECTION:waka-->
