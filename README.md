@@ -13,6 +13,8 @@ I'm Jorge Luis Hernández, Full Stack Software Developer :sunglasses:. I love pr
 
 <h2 align="left">:grin: Some fun data:</h2>
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
 **I'm an Early 🐤** 
 
 ```text
@@ -54,5 +56,5 @@ Astro                    2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 04/11/2024 08:25:45 UTC
+ Last Updated on 04/11/2024 16:26:48 UTC
 <!--END_SECTION:waka-->
