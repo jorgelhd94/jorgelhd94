@@ -1,58 +1,47 @@
-<h1 align="left">
- <abc>
-  <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
- </abc>
-</h1>
+<div align="center">
 
-I'm Jorge Luis Hernández, Full Stack Software Developer :sunglasses:. I love programming :computer: and music :musical_score:, if I use them at the same time I get superpowers :zap:. 
+# Hi, I'm Jorge 👋
 
+### Backend Engineer · Go & Payment Systems
 
-<h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
+Montevideo, Uruguay · 5+ years building fintech, e-commerce, and business applications
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,py,vue,react,next,nest,postgres,mysql)](https://skillicons.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0F766E?style=for-the-badge)](https://jorgelhd94.github.io/portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/jorgelhd94/)
 
-<h2 align="left">:grin: Some fun data:</h2>
-<!--START_SECTION:waka-->
-**I'm an Early 🐤** 
+</div>
 
-```text
-🌞 Morning                1470 commits        █████████░░░░░░░░░░░░░░░░   34.34 % 
-🌆 Daytime                2249 commits        █████████████░░░░░░░░░░░░   52.53 % 
-🌃 Evening                533 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
-🌙 Night                  29 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
-```
-📅 **I'm Most Productive on Thursday** 
+---
 
-```text
-Monday                   766 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.89 % 
-Tuesday                  843 commits         █████░░░░░░░░░░░░░░░░░░░░   19.69 % 
-Wednesday                727 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.98 % 
-Thursday                 871 commits         █████░░░░░░░░░░░░░░░░░░░░   20.35 % 
-Friday                   643 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.02 % 
-Saturday                 207 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
-Sunday                   224 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
-```
+### About me
 
+I currently work at **RalioPay**, developing **Go services for payment orchestration and asynchronous processing**. My work focuses on reliable background jobs, idempotency, and transaction consistency.
 
-📊 **This Week I Spent My Time On** 
+I bring a full-stack background in **Python and TypeScript**, delivering applications from requirements and system design through deployment and maintenance.
 
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-```
+### Core stack
 
-**I Mostly Code in TypeScript** 
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Asynq](https://img.shields.io/badge/Asynq-334155?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-```text
-TypeScript               23 repos            ████████████░░░░░░░░░░░░░   47.92 % 
-JavaScript               8 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-Python                   6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
-Go                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
-```
+| Area | Technologies & practices |
+| --- | --- |
+| APIs & messaging | REST, gRPC, RabbitMQ |
+| Infrastructure | Docker, CI/CD, AWS, DigitalOcean |
+| Observability | Datadog, Grafana |
+| Design | Clean Architecture, Domain-Driven Design |
+| Full-stack | Python, Django, FastAPI, TypeScript, React, Next.js |
 
+### Things I've built
 
+- **Payments:** orchestration services and fault-tolerant background processing with Go, Redis, and Asynq.
+- **Logistics:** applications with API integrations and automated PDF and Excel reporting.
+- **Price comparison:** platforms backed by independent data collection and normalization services.
+- **E-commerce:** marketplaces, payment integrations, and subscription workflows.
 
+---
 
- Last Updated on 23/04/2026 09:48:05 UTC
-<!--END_SECTION:waka-->
+Outside of work, I enjoy music — especially while programming. 🎧
